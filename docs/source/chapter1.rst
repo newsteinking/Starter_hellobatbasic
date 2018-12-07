@@ -1,6 +1,8 @@
-1. **Light up a colorful water lights on body of robot**
+Chapter 1 :Light up a colorful water lights on body of robot
+===========================================================
 
-\ **1.Preparation**
+1.Preparation
+-----------------------
 
 1.You should learn about the position of the colorful lights in the body
 of hellobot；

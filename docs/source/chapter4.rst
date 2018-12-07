@@ -1,6 +1,8 @@
-\ **Chapter4 :Light up magic lights on arm of robot**
+Chapter4 :Light up magic lights on arm of robot
+====================================================================
 
-**1.Preparation**
+1.Preparation
+--------------------
 
 1.You should learn about the position of the magic lights in the arm of
 hellobot；

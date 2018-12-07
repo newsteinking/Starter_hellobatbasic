@@ -1,6 +1,8 @@
-**Chapter16 :Avoid\_following**
+Chapter16 :Avoid_following
+====================================================================
 
-\ **1.Preparation**
+1.Preparation
+---------------------
 
 1.You should learn about the position of the infrared module in the body
 of hellobot；

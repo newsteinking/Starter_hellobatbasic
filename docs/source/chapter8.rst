@@ -1,6 +1,8 @@
-**Chapter8 :Arm swing**
+Chapter8 :Arm swing
+====================================================================
 
-\ **1.Preparation**
+1.Preparation
+--------------------
 
 1.You should learn about the position of the servos in the body of
 hellobot；

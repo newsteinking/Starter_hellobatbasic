@@ -1,6 +1,8 @@
-**Chapter13 :Ultrasonic ranging**
+Chapter13 :Ultrasonic ranging
+====================================================================
 
-\ **1.Preparation**
+1.Preparation
+----------------------
 
 1.You should learn about the position of the Ultrasonic module in the
 body of hellobot；

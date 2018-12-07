@@ -1,6 +1,8 @@
-**Chapter7 :Buzzer**
+Chapter7 :Buzzer
+====================================================================
 
-\ **1.Preparation**
+1.Preparation
+--------------------
 
 1.You should learn about the position of the buzzer in the body of
 hellobot；

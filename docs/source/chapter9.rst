@@ -1,6 +1,8 @@
-\ **Chapter9 :HelloBot advance**
+Chapter9 :HelloBot advance
+====================================================================
 
-\ **1.Preparation**
+1.Preparation
+----------------------
 
 1.You should learn about the position of the motors in the body of
 hellobot；

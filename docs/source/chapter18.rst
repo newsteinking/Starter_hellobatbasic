@@ -1,4 +1,5 @@
-**Chapter18 :Bluetooth remote control**
+Chapter18 :Bluetooth remote control
+====================================================================
 
 \ |image0|
 

@@ -1,6 +1,8 @@
-**Chapter12 :HelloBot tracking**
+Chapter12 :HelloBot tracking
+====================================================================
 
-\ **1.Preparation**
+1.Preparation
+----------------------
 
 1.You should learn about the position of the RGB tracking obstacle
 avoidance 3 in 1 module in the body of hellobot；

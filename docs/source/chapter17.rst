@@ -1,6 +1,8 @@
-**Chapter17 :Infrared remote control**
+Chapter17 :Infrared remote control
+====================================================================
 
-\ **1.Preparation**
+1.Preparation
+------------------------
 
 1.You should learn about the position of the infrared receiver in the
 body of hellobot；

@@ -1,6 +1,8 @@
-**Chapter0 :Introduction of programming methods**
+Chapter0 :Introduction of programming methods
+====================================================
 
 **Programming online**
+------------------------
 
 1. You should use the USB cable to connect the micro:bit to the
    computer, at this point, the computer will have a micro:bit U disk.

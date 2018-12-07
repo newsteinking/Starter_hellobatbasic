@@ -1,7 +1,8 @@
-**Chapter2 :Light up multiple colorful lights on body of robot**
+Chapter2 :Light up multiple colorful lights on body of robot
+====================================================================
 
-**1.Preparation**
-
+1.Preparation
+--------------------
 1.You should learn about the position of the colorful lights in the body
 of hellobot；
 
