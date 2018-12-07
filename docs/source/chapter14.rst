@@ -135,42 +135,42 @@ to avoid the obstacle.
 
 8-2-13
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter14/media/image1.png
    :width: 2.47014in
    :height: 3.05833in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter14/media/image2.png
    :width: 2.67292in
    :height: 3.04722in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter14/media/image3.png
    :width: 3.71806in
    :height: 2.63542in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter14/media/image4.png
    :width: 5.76181in
    :height: 3.14792in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter14/media/image5.png
    :width: 5.76319in
    :height: 3.97222in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter14/media/image6.png
    :width: 5.14028in
    :height: 4.68819in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter14/media/image7.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter14/media/image8.png
    :width: 5.02021in
    :height: 2.17681in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter14/media/image9.png
    :width: 4.08264in
    :height: 3.15556in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter14/media/image10.png
    :width: 5.76806in
    :height: 2.25347in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter14/media/image11.png
    :width: 4.44444in
    :height: 4.39236in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter14/media/image12.png
    :width: 5.76806in
    :height: 2.70278in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter14/media/image13.png
    :width: 5.76667in
    :height: 6.01319in

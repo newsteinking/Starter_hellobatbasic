@@ -158,51 +158,51 @@ front, the indicator light is on and the car stop.
 
 9-2-14
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter16/media/image1.png
    :width: 4.72431in
    :height: 3.95972in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter16/media/image2.png
    :width: 3.28056in
    :height: 2.73958in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter16/media/image3.png
    :width: 5.11458in
    :height: 5.91250in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter16/media/image4.png
    :width: 5.76389in
    :height: 5.79167in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter16/media/image5.png
    :width: 2.79375in
    :height: 2.42083in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter16/media/image6.png
    :width: 5.76181in
    :height: 3.14792in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter16/media/image7.png
    :width: 5.76319in
    :height: 3.97222in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter16/media/image8.png
    :width: 5.33542in
    :height: 4.87083in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter16/media/image9.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter16/media/image10.png
    :width: 5.76806in
    :height: 1.75000in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter16/media/image11.png
    :width: 5.33264in
    :height: 5.25972in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter16/media/image12.png
    :width: 4.07222in
    :height: 3.29097in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter16/media/image13.png
    :width: 5.76806in
    :height: 2.92431in
-.. |image13| image:: media/image14.png
+.. |image13| image:: ./chapter16/media/image14.png
    :width: 3.93681in
    :height: 3.06181in
-.. |image14| image:: media/image15.png
+.. |image14| image:: ./chapter16/media/image15.png
    :width: 5.76806in
    :height: 2.61319in
-.. |image15| image:: media/image16.png
+.. |image15| image:: ./chapter16/media/image16.png
    :width: 4.13264in
    :height: 5.58264in

@@ -125,45 +125,45 @@ robot's arm emit red light.
 
 2-1-10
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter4/media/image1.png
    :width: 2.43611in
    :height: 1.98611in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter4/media/image2.png
    :width: 2.69375in
    :height: 1.98264in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter4/media/image3.png
    :width: 5.23958in
    :height: 5.11181in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter4/media/image4.png
    :width: 2.20903in
    :height: 1.76736in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter4/media/image5.png
    :width: 1.88681in
    :height: 1.78958in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter4/media/image6.png
    :width: 5.19097in
    :height: 3.60903in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter4/media/image7.png
    :width: 4.38472in
    :height: 1.60417in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter4/media/image8.png
    :width: 5.76806in
    :height: 5.29028in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter4/media/image9.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter4/media/image10.png
    :width: 5.76458in
    :height: 2.52222in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter4/media/image11.png
    :width: 5.76806in
    :height: 3.96389in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter4/media/image12.png
    :width: 5.56458in
    :height: 3.27083in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter4/media/image13.png
    :width: 5.76389in
    :height: 3.61389in
-.. |image13| image:: media/image14.png
+.. |image13| image:: ./chapter4/media/image14.png
    :width: 4.69306in
    :height: 4.06736in

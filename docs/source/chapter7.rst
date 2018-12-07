@@ -86,24 +86,24 @@ corner as shown in P 4-1-6 to download the program to micro:bit.
 
 After the code is uploaded. HelloBot robot will sing “Happy Birthday”.
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter7/media/image1.png
    :width: 3.24236in
    :height: 3.45486in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter7/media/image2.png
    :width: 3.66597in
    :height: 3.71806in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter7/media/image3.png
    :width: 5.76250in
    :height: 5.20208in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter7/media/image4.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter7/media/image5.png
    :width: 5.15694in
    :height: 1.67361in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter7/media/image6.png
    :width: 5.76806in
    :height: 1.77569in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter7/media/image7.png
    :width: 5.75903in
    :height: 4.28056in

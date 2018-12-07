@@ -133,57 +133,57 @@ following figure.
 
 1-3-14
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter3/media/image1.png
    :width: 3.44931in
    :height: 3.98125in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter3/media/image2.png
    :width: 3.37083in
    :height: 3.46736in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter3/media/image3.png
    :width: 5.76319in
    :height: 1.42569in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter3/media/image4.png
    :width: 5.76597in
    :height: 5.28264in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter3/media/image5.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter3/media/image6.png
    :width: 5.76736in
    :height: 5.35556in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter3/media/image7.png
    :width: 3.95625in
    :height: 4.25903in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter3/media/image8.png
    :width: 5.30000in
    :height: 3.89028in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter3/media/image9.png
    :width: 4.87153in
    :height: 4.16806in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter3/media/image10.png
    :width: 4.81181in
    :height: 4.14861in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter3/media/image11.png
    :width: 5.76806in
    :height: 3.45556in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter3/media/image12.png
    :width: 5.41458in
    :height: 3.85139in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter3/media/image13.png
    :width: 5.56389in
    :height: 4.61389in
-.. |image13| image:: media/image14.png
+.. |image13| image:: ./chapter3/media/image14.png
    :width: 5.75556in
    :height: 3.71667in
-.. |image14| image:: media/image15.png
+.. |image14| image:: ./chapter3/media/image15.png
    :width: 2.63750in
    :height: 3.18125in
-.. |image15| image:: media/image16.png
+.. |image15| image:: ./chapter3/media/image16.png
    :width: 2.58194in
    :height: 3.16806in
-.. |image16| image:: media/image17.png
+.. |image16| image:: ./chapter3/media/image17.png
    :width: 2.71875in
    :height: 3.13611in
-.. |image17| image:: media/image18.png
+.. |image17| image:: ./chapter3/media/image18.png
    :width: 2.65903in
    :height: 3.13750in

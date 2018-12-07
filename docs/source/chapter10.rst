@@ -160,69 +160,69 @@ back, turn left, turn right, arm swing.
 
 6-2-14
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter10/media/image1.png
    :width: 2.56042in
    :height: 1.67847in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter10/media/image2.png
    :width: 2.55903in
    :height: 1.67708in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter10/media/image3.png
    :width: 3.86458in
    :height: 4.83194in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter10/media/image4.png
    :width: 5.76458in
    :height: 4.34722in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter10/media/image5.png
    :width: 5.76181in
    :height: 5.87847in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter10/media/image6.png
    :width: 1.31250in
    :height: 4.39514in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter10/media/image7.png
    :width: 5.76181in
    :height: 3.14792in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter10/media/image8.png
    :width: 3.66597in
    :height: 3.71806in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter10/media/image9.png
    :width: 5.76250in
    :height: 3.93681in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter10/media/image10.png
    :width: 5.48472in
    :height: 4.89722in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter10/media/image11.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter10/media/image12.png
    :width: 5.76806in
    :height: 5.90764in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter10/media/image13.png
    :width: 5.76806in
    :height: 4.43194in
-.. |image13| image:: media/image14.png
+.. |image13| image:: ./chapter10/media/image14.png
    :width: 5.76806in
    :height: 4.64028in
-.. |image14| image:: media/image15.png
+.. |image14| image:: ./chapter10/media/image15.png
    :width: 5.76806in
    :height: 6.79028in
-.. |image15| image:: media/image16.png
+.. |image15| image:: ./chapter10/media/image16.png
    :width: 5.76806in
    :height: 6.02708in
-.. |image16| image:: media/image17.png
+.. |image16| image:: ./chapter10/media/image17.png
    :width: 5.61389in
    :height: 3.24931in
-.. |image17| image:: media/image18.png
+.. |image17| image:: ./chapter10/media/image18.png
    :width: 5.29097in
    :height: 6.30139in
-.. |image18| image:: media/image19.png
+.. |image18| image:: ./chapter10/media/image19.png
    :width: 5.76806in
    :height: 4.35000in
-.. |image19| image:: media/image20.png
+.. |image19| image:: ./chapter10/media/image20.png
    :width: 5.76250in
    :height: 4.17639in
-.. |image20| image:: media/image21.png
+.. |image20| image:: ./chapter10/media/image21.png
    :width: 5.76806in
    :height: 4.56319in
-.. |image21| image:: media/image22.png
+.. |image21| image:: ./chapter10/media/image22.png
    :width: 3.34097in
    :height: 3.13542in

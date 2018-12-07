@@ -143,69 +143,69 @@ following figure.
 
 2-2-15
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter5/media/image1.png
    :width: 2.43611in
    :height: 1.98611in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter5/media/image2.png
    :width: 2.69375in
    :height: 1.98264in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter5/media/image3.png
    :width: 5.23958in
    :height: 5.11181in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter5/media/image4.png
    :width: 2.20903in
    :height: 1.76736in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter5/media/image5.png
    :width: 1.88681in
    :height: 1.78958in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter5/media/image6.png
    :width: 5.19097in
    :height: 3.60903in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter5/media/image7.png
    :width: 4.38472in
    :height: 1.60417in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter5/media/image8.png
    :width: 5.76806in
    :height: 5.29028in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter5/media/image9.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter5/media/image10.png
    :width: 5.76319in
    :height: 5.61111in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter5/media/image11.png
    :width: 3.95625in
    :height: 4.25903in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter5/media/image12.png
    :width: 5.30000in
    :height: 3.89028in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter5/media/image13.png
    :width: 4.87153in
    :height: 4.16806in
-.. |image13| image:: media/image14.png
+.. |image13| image:: ./chapter5/media/image14.png
    :width: 4.81181in
    :height: 4.14861in
-.. |image14| image:: media/image15.png
+.. |image14| image:: ./chapter5/media/image15.png
    :width: 5.76806in
    :height: 3.45556in
-.. |image15| image:: media/image16.png
+.. |image15| image:: ./chapter5/media/image16.png
    :width: 5.33750in
    :height: 3.79653in
-.. |image16| image:: media/image17.png
+.. |image16| image:: ./chapter5/media/image17.png
    :width: 5.26042in
    :height: 4.36181in
-.. |image17| image:: media/image18.png
+.. |image17| image:: ./chapter5/media/image18.png
    :width: 5.76736in
    :height: 4.16319in
-.. |image18| image:: media/image19.png
+.. |image18| image:: ./chapter5/media/image19.png
    :width: 2.52500in
    :height: 2.28333in
-.. |image19| image:: media/image20.png
+.. |image19| image:: ./chapter5/media/image20.png
    :width: 2.51944in
    :height: 2.28333in
-.. |image20| image:: media/image21.png
+.. |image20| image:: ./chapter5/media/image21.png
    :width: 2.55833in
    :height: 2.24722in
-.. |image21| image:: media/image22.png
+.. |image21| image:: ./chapter5/media/image22.png
    :width: 2.51806in
    :height: 2.22986in

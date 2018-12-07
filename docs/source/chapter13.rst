@@ -126,36 +126,36 @@ dot matrix to be somewhat defective. This is normal phenomenon.)
 
 8-1-9
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter13/media/image1.png
    :width: 2.47014in
    :height: 3.05833in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter13/media/image2.png
    :width: 2.67292in
    :height: 3.04722in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter13/media/image3.png
    :width: 3.71806in
    :height: 2.63542in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter13/media/image4.png
    :width: 5.42222in
    :height: 4.88958in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter13/media/image5.png
    :width: 0.93472in
    :height: 0.79514in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter13/media/image6.png
    :width: 5.76597in
    :height: 1.10694in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter13/media/image7.png
    :width: 4.80139in
    :height: 2.48958in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter13/media/image8.png
    :width: 5.76806in
    :height: 1.31111in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter13/media/image9.png
    :width: 5.75764in
    :height: 3.53264in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter13/media/image10.png
    :width: 2.19097in
    :height: 2.52569in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter13/media/image11.png
    :width: 2.18750in
    :height: 2.55833in
