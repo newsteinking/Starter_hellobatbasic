@@ -1,4 +1,4 @@
-**10-1.Infrared remote control**
+**Chapter17 :Infrared remote control**
 
 \ **1.Preparation**
 

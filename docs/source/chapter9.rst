@@ -1,4 +1,4 @@
-\ **6-1.HelloBot advance**
+\ **Chapter9 :HelloBot advance**
 
 \ **1.Preparation**
 

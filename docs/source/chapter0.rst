@@ -1,4 +1,4 @@
-**Introduction of programming methods**
+**Chapter0 :Introduction of programming methods**
 
 **Programming online**
 
@@ -8,10 +8,10 @@
    micro:bit website or you can enter the URL directly in your browser:
    http://microbit.org/.
 
-   |image0|
+|image0|
 
-   2.After entering the official website, you can see the interface
-   shown below.
+2.After entering the official website, you can see the interface shown
+below.
 
 |image1|
 
@@ -59,45 +59,45 @@ copy it to the U disk in micro:bit. As shown in the following figure.
 
 After downloading, you can see the experimental phenomena in the code.
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter0/media/image1.png
    :width: 4.63403in
    :height: 1.41875in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter0/media/image2.png
    :width: 5.75972in
    :height: 2.87222in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter0/media/image3.png
    :width: 5.76597in
    :height: 3.68958in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter0/media/image4.png
    :width: 5.76736in
    :height: 4.22431in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter0/media/image5.png
    :width: 5.76458in
    :height: 3.10347in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter0/media/image6.png
    :width: 5.76389in
    :height: 4.52639in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter0/media/image7.png
    :width: 5.76389in
    :height: 3.04722in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter0/media/image8.png
    :width: 5.75625in
    :height: 2.49792in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter0/media/image9.png
    :width: 5.76250in
    :height: 2.29861in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter0/media/image10.png
    :width: 5.75972in
    :height: 3.67153in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter0/media/image11.png
    :width: 5.76597in
    :height: 4.51667in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter0/media/image12.png
    :width: 4.42708in
    :height: 2.06250in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter0/media/image13.png
    :width: 3.61458in
    :height: 4.17708in
-.. |image13| image:: media/image14.png
+.. |image13| image:: ./chapter0/media/image14.png
    :width: 4.73958in
    :height: 2.17708in

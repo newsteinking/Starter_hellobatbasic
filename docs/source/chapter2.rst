@@ -1,4 +1,4 @@
-**1-2.Light up multiple colorful lights on body of robot**
+**Chapter2 :Light up multiple colorful lights on body of robot**
 
 **1.Preparation**
 

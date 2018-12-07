@@ -1,4 +1,4 @@
-**6-2.HelloBot sing dance arm swing**
+**Chapter10 :HelloBot sing dance arm swing**
 
 \ **1.Preparation**
 

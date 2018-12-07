@@ -1,4 +1,4 @@
-**7-2.HelloBot tracking**
+**Chapter12 :HelloBot tracking**
 
 \ **1.Preparation**
 

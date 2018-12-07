@@ -1,4 +1,4 @@
-**3-1.Touch control magic lights on arm of robot**
+**Chapter6 :Touch control magic lights on arm of robot**
 
 **1.Preparation**
 
