@@ -1,47 +1,47 @@
-**Chapter0 :Introduction of programming methods**
+Chapter0 :프로그램 방법들에 대한 소개
+====================================================
 
-**Programming online**
+온라인 프로그램
+------------------------
 
-1. You should use the USB cable to connect the micro:bit to the
-   computer, at this point, the computer will have a micro:bit U disk.
-   You need to open it, click micro:bit website, then entered the
-   micro:bit website or you can enter the URL directly in your browser:
-   http://microbit.org/.
+1.컴퓨터에 USB 케이블로 마이크로비트를 연결해야 한다.
+컴퓨터에 연결되면 컴퓨터에 MICROBIT 라는 디스크가 열릴것이다.
+그리고 브라우저에서  http://microbit.org/ 열면 된다.
 
 |image0|
+2. 공식 사이트에 들어간후 아래 인터페이스를 볼수 있을것이다.
 
-2.After entering the official website, you can see the interface shown
-below.
 
 |image1|
+3. "코드만들기"를 클릭하자.
 
-3.You need to click “lets code”.
 
 |image2|
 
 |image3|
+4. 다음과 같이 프로그램 모드로 들어간다.
 
 4. Then you can enter the programming interface as shown below.
 
 |image4|
+5. 확장 패키지를 포함시켜야 한다.
 
-5.You need to click the icon as shown below to add a package.
 
 |image5|
+6. 다음 사이트를 넣으면 패키지가 포함된다.
+https://github.com/lzty634158/HelloBot
 
-6.You need to input https://github.com/lzty634158/HelloBot to obtain
-package.
 
 |image6|
 
 |image7|
 
 |image8|
+7. 패키지를 인스톨 하게되면 다음과 같이 Hellobot 패키지가 보인다.
 
-7.After the addition is complete, you can see Yaboom HelloBot package on
-the left bar.
 
 |image9|
+8.
 
 8.After the building blocks, click Download. You can set the download
 path in the U disk of micro:bit, download it to the computer, and then
@@ -55,49 +55,48 @@ copy it to the U disk in micro:bit. As shown in the following figure.
 
 |image12| 
 
-|image13| 
+*.hex 파일을 microbit 디스크에 넣어 주기만 하면 된다.
 
-After downloading, you can see the experimental phenomena in the code.
 
-.. |image0| image:: media/image1.png
+.. |image0| image:: ./chapter0/media/image1.png
    :width: 4.63403in
    :height: 1.41875in
-.. |image1| image:: media/image2.png
+.. |image1| image:: ./chapter0/media/image2.png
    :width: 5.75972in
    :height: 2.87222in
-.. |image2| image:: media/image3.png
+.. |image2| image:: ./chapter0/media/image3.png
    :width: 5.76597in
    :height: 3.68958in
-.. |image3| image:: media/image4.png
+.. |image3| image:: ./chapter0/media/image4.png
    :width: 5.76736in
    :height: 4.22431in
-.. |image4| image:: media/image5.png
+.. |image4| image:: ./chapter0/media/image5.png
    :width: 5.76458in
    :height: 3.10347in
-.. |image5| image:: media/image6.png
+.. |image5| image:: ./chapter0/media/image6.png
    :width: 5.76389in
    :height: 4.52639in
-.. |image6| image:: media/image7.png
+.. |image6| image:: ./chapter0/media/image7.png
    :width: 5.76389in
    :height: 3.04722in
-.. |image7| image:: media/image8.png
+.. |image7| image:: ./chapter0/media/image8.png
    :width: 5.75625in
    :height: 2.49792in
-.. |image8| image:: media/image9.png
+.. |image8| image:: ./chapter0/media/image9.png
    :width: 5.76250in
    :height: 2.29861in
-.. |image9| image:: media/image10.png
+.. |image9| image:: ./chapter0/media/image10.png
    :width: 5.75972in
    :height: 3.67153in
-.. |image10| image:: media/image11.png
+.. |image10| image:: ./chapter0/media/image11.png
    :width: 5.76597in
    :height: 4.51667in
-.. |image11| image:: media/image12.png
+.. |image11| image:: ./chapter0/media/image12.png
    :width: 4.42708in
    :height: 2.06250in
-.. |image12| image:: media/image13.png
+.. |image12| image:: ./chapter0/media/image13.png
    :width: 3.61458in
    :height: 4.17708in
-.. |image13| image:: media/image14.png
+.. |image13| image:: ./chapter0/media/image14.png
    :width: 4.73958in
    :height: 2.17708in
