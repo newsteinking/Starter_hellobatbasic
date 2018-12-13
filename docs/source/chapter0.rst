@@ -41,11 +41,9 @@ https://github.com/lzty634158/HelloBot
 
 
 |image9|
-8.
 
-8.After the building blocks, click Download. You can set the download
-path in the U disk of micro:bit, download it to the computer, and then
-copy it to the U disk in micro:bit. As shown in the following figure.
+8.다음 처럼 download를 클릭하면 ***.hex 파일이 다운된다.
+
 
 |image10|
 
@@ -97,6 +95,4 @@ copy it to the U disk in micro:bit. As shown in the following figure.
 .. |image12| image:: ./chapter0/media/image13.png
    :width: 3.61458in
    :height: 4.17708in
-.. |image13| image:: ./chapter0/media/image14.png
-   :width: 4.73958in
-   :height: 2.17708in
+
