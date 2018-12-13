@@ -1,4 +1,4 @@
-Chapter6 :Touch control magic lights on arm of robot
+Chapter6 :로봇팔의 터치로 동작되는 불빛 만들기
 ====================================================================
 
 1.Preparation

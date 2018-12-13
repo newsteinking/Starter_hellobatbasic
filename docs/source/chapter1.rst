@@ -1,4 +1,4 @@
-Chapter 1 :로봇에 LED 불을 켜보자 Light up a colorful water lights on body of robot
+Chapter 1 :로봇에 LED 불을 켜보자
 ===========================================================
 
 1.Preparation

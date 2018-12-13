@@ -1,4 +1,4 @@
-Chapter11 :tracking control colorful lights
+Chapter11 :추적에 따른 불빛 보이기
 ====================================================================
 
 1.Preparation

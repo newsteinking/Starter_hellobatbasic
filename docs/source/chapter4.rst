@@ -1,4 +1,4 @@
-Chapter4 :Light up magic lights on arm of robot
+Chapter4 :로봇 팔의 불빛을 켜보자
 ====================================================================
 
 1.Preparation

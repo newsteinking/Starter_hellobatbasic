@@ -1,4 +1,4 @@
-Chapter10 :HelloBot sing dance arm swing
+Chapter10 :헬로봇 춤추고 팔 흔들기
 ====================================================================
 
 1.Preparation

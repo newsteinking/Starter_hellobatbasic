@@ -1,4 +1,4 @@
-Chapter2 :Light up multiple colorful lights on body of robot
+Chapter2 :로봇에 있는 다양한 컬러 빛을 내보자
 ====================================================================
 
 1.Preparation

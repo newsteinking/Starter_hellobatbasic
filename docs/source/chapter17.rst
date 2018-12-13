@@ -1,4 +1,4 @@
-Chapter17 :Infrared remote control
+Chapter17 :IR 리모트 컨트롤
 ====================================================================
 
 1.Preparation
