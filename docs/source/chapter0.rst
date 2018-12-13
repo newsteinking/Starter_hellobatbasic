@@ -13,21 +13,24 @@ Chapter0 :프로그램 방법들에 대한 소개
 
 
 |image1|
+
 3. "코드만들기"를 클릭하자.
 
 
 |image2|
 
 |image3|
+
 4. 다음과 같이 프로그램 모드로 들어간다.
 
-4. Then you can enter the programming interface as shown below.
 
 |image4|
+
 5. 확장 패키지를 포함시켜야 한다.
 
 
 |image5|
+
 6. 다음 사이트를 넣으면 패키지가 포함된다.
 https://github.com/lzty634158/HelloBot
 
@@ -37,6 +40,7 @@ https://github.com/lzty634158/HelloBot
 |image7|
 
 |image8|
+
 7. 패키지를 인스톨 하게되면 다음과 같이 Hellobot 패키지가 보인다.
 
 
